@@ -74,6 +74,14 @@ header .nav-bar {
   text-decoration: none;
   text-shadow: var(--text-shadow);
 }
+
+.navigation .nav-items a i {
+  display: none;
+}
+
+.navigation .nav-items a:not(:last-child) {
+  margin-right: 45px;
+}
 /*========= Home =========*/
 
 /*========= Background slider =========*/
