@@ -156,6 +156,15 @@ header .nav-bar {
   cursor: pointer;
 }
 
+.swiper-slide .text-content .read-btn i {
+  font-size: 1.6em;
+  transition: 0.3s ease;
+}
+
+.swiper-slide .text-content .read-btn:hover i {
+  transform: translateX(5px);
+}
+
 /*========= Media icons =========*/
 
 /*========= About section =========*/
