@@ -143,6 +143,17 @@ header .nav-bar {
 
 .swiper-slide .text-content .read-btn {
   border: none;
+  outline: none;
+  background: var(--white-color);
+  color: var(--dark-color);
+  font-size: 1em;
+  font-weight: 500;
+  padding: 8px 25px;
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+  border-radius: 10px;
+  cursor: pointer;
 }
 
 /*========= Media icons =========*/
