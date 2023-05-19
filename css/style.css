@@ -141,6 +141,10 @@ header .nav-bar {
   box-shadow: var(--box-shadow);
 }
 
+.swiper-slide .text-content .read-btn {
+  border: none;
+}
+
 /*========= Media icons =========*/
 
 /*========= About section =========*/
